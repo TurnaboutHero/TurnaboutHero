@@ -63,7 +63,7 @@
 | 🤖 [oh-my-antigravity](https://github.com/TurnaboutHero/oh-my-antigravity) | Multi-agent orchestration framework for Google Antigravity IDE | PowerShell |
 | 🎬 [CineNovel AI Workflow](https://github.com/TurnaboutHero/CineNovel_AI_Workflow_Automation) | AI-powered cinematic novel workflow automation | HTML |
 | 🐍 [Vainglory Replay Decoder](https://github.com/TurnaboutHero/vainglory-replay-decoder) | Decode and analyze Vainglory game replays | Python |
-| 🎮 [SnakeGame](https://github.com/TurnaboutHero/SnakeGame) | Classic Snake game implementation | C# |
+| 📝 [HWPX_Editor](https://github.com/TurnaboutHero/HWPX_Editor) | HWPX document editor with Streamlit dashboard | Python |
 
 ---
 
