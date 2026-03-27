@@ -2,7 +2,7 @@
 
 # Hello World! 👋 I'm **TurnaboutHero**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTurnaboutHero&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/TurnaboutHero)
+![Profile Views](https://komarev.com/ghpvc/?username=TurnaboutHero&color=58A6FF&style=flat-square&label=Profile+Views)
 
 *Building things that make life easier, one commit at a time* 🚀
 
@@ -44,9 +44,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TurnaboutHero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TurnaboutHero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurnaboutHero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TurnaboutHero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
 
 <br/><br/>
 
