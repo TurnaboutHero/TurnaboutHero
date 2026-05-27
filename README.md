@@ -79,8 +79,11 @@
 
 ### 📫 Let's Connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-TurnaboutHero-181717?style=for-the-badge&logo=github)](https://github.com/TurnaboutHero)
-[![Portfolio](https://img.shields.io/badge/Portfolio-TurnaboutHero.github.io-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://turnabouthero.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khh56600@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HunHui_Kim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hunhui-kim-9622531b7/)
+[![Threads](https://img.shields.io/badge/Threads-@hoon__coding-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@hoon_coding)
+[![Blog](https://img.shields.io/badge/Blog-hunhui.dev-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://hunhui.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-turnabouthero.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://turnabouthero.github.io)
 
 ---
 
