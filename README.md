@@ -58,12 +58,20 @@
 
 ## 🏆 Featured Projects
 
+### 💡 Personal Projects
+
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🤖 [oh-my-antigravity](https://github.com/TurnaboutHero/oh-my-antigravity) | Multi-agent orchestration framework for Google Antigravity IDE | PowerShell |
 | 🎬 [CineNovel AI Workflow](https://github.com/TurnaboutHero/CineNovel_AI_Workflow_Automation) | AI-powered cinematic novel workflow automation | HTML |
 | 🎮 [Vainglory Replay Decoder](https://github.com/TurnaboutHero/vainglory-replay-decoder) | Decode and analyze Vainglory game replays | Python |
 | 📝 [HWPX_Editor](https://github.com/TurnaboutHero/HWPX_Editor) | HWPX document editor with Streamlit dashboard | Python |
+
+### 🤝 Team Projects
+
+| Project | Organization | Description | Tech |
+|---------|--------------|-------------|------|
+| 🌑 [monochrome-the-eclipse](https://github.com/Team-Project-0-1/monochrome-the-eclipse) | [@Team-Project-0-1](https://github.com/Team-Project-0-1) | 동전 굴리기 턴제 로그라이트 RPG 프로토타입 | TypeScript |
 
 ---
 
