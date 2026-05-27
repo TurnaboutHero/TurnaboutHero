@@ -71,7 +71,7 @@
 
 | Project | Organization | Description | Tech |
 |---------|--------------|-------------|------|
-| 🌑 [monochrome-the-eclipse](https://github.com/Team-Project-0-1/monochrome-the-eclipse) | [@Team-Project-0-1](https://github.com/Team-Project-0-1) | 동전 굴리기 턴제 로그라이트 RPG 프로토타입 | TypeScript |
+| 🌑 [monochrome-the-eclipse](https://github.com/Team-Project-0-1/monochrome-the-eclipse) | [@Team-Project-0-1](https://github.com/Team-Project-0-1) | A roguelike deck-builder where coin patterns become your sword | TypeScript |
 
 ---
 
