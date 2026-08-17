@@ -44,13 +44,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TurnaboutHero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TurnaboutHero&theme=tokyonight" alt="GitHub Stats" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TurnaboutHero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TurnaboutHero&theme=tokyonight" alt="Top Languages" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=TurnaboutHero&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TurnaboutHero&theme=tokyo-night&bg_color=0D1117&color=58A6FF&title_color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
 
 </div>
 
